@@ -43,6 +43,6 @@ The objective of the proposed solution is to build a framework using AI (Includi
 ##### SVM - Incident_Analysis_Mozilla_SVM_RandomSearch.ipynb
 ##### LR - Incident_Analysis_Mozilla_LR.ipynb
 ##### MLP - Incident_Analysis_Mozilla_NN_RandomSearch.ipynb
-##### Other helper functions on DB interactions and internal logic for assignee prediction (including sentiment analysis) - helper.ipynb
+##### Other helper functions on DB interactions and internal logic for assignee prediction (including sentiment analysis) - /helper/helper.py and in the notebook helper.ipynb for testing dummy scenarios
 
 
