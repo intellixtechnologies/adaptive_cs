@@ -194,9 +194,9 @@ def get_Assignee(team_name, component, classification, negative_sentiment=False)
         try:
             with db.connect() as conn:
                 results = conn.execute(stmt).fetchall()
-                if len(results)==0: 
-                    member_id = 'A22'
-                    assignee = 'Senior Manager'
+                if len(results)==0: #For no assignee to triage based on data setup, send to Escalation Manager for manual triage
+                    member_id = 'A21'
+                    assignee = 'Escalation Manager'
                 else:
                     for result in results:
                         #print(type(result))
