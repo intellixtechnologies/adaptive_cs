@@ -44,5 +44,6 @@ The objective of the proposed solution is to build a framework using AI (Includi
 ##### LR - Incident_Analysis_Mozilla_LR.ipynb
 ##### MLP - Incident_Analysis_Mozilla_NN_RandomSearch.ipynb
 ##### Other helper functions on DB interactions and internal logic for assignee prediction (including sentiment analysis) - /helper/helper.py and in the notebook helper.ipynb for testing dummy scenarios
-#### Model_demo.ipynb - File to test different models with various query textx. You can also test VADER sentiment analysis
+#### Model_demo.ipynb - File to test different models with various query texts. You can also test VADER sentiment analysis
+#### VoxImpant and DialogFlow connector methods - /helper/voxAPI.py,  /helper/dialogFlowFulfillment.py,  /helper/dialogflow_methods.py
 
