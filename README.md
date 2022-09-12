@@ -30,6 +30,9 @@ The objective of the proposed solution is to build a framework using AI (Includi
 ##### Process workflow for customer phone call in VoxImplantkit
 ![image](https://user-images.githubusercontent.com/10474901/187495538-db75bb69-e662-421f-8611-ee6840a8e6ee.png)
 
+##### Setup in DialogFlow ES
+![image](https://user-images.githubusercontent.com/10474901/189669772-c828c1b6-3985-409b-81fb-062d570e560a.png)
+
 #### DB Setup (MySQL)
 ![image](https://user-images.githubusercontent.com/10474901/187301042-9de36aba-9922-4bfe-b2d6-cea7d8135eee.png)
 
